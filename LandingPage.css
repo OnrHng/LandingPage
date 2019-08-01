@@ -1,0 +1,24 @@
+body { 
+  background: url(bgimage1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.col {
+	font-size: 3em;
+	color: white;
+	font-family: times new roman;
+	margin-top:25%;
+	display: flex;
+	text-align: center;	
+}
+.btn-secondary {
+	font-size: 2em;
+	font-family:"Comic Sans MS", cursive, sans-serif; 
+}
+.link {
+	display: flex;
+	justify-content: center;
+}
